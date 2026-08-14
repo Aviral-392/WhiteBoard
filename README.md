@@ -11,15 +11,6 @@ It combines **live drawing**, **real-time sync**, **AI assistance**, and **audio
 https://collaboard-a19i.onrender.com/login
 
 ---
-
-## 👥 Team CodeRangers
-- Arpit Goyal  
-- Vaibhav Kumar Shashwat  
-- Archisman Naskar  
-- **Arpit Kumar Shrivastava**
-
----
-
 ## ✨ Key Features
 
 ### 🖌️ Infinite Whiteboard
